@@ -88,7 +88,7 @@
 					</div>
 				</div>
 				<div class="col-lg-5">
-					<form action="RegisterServlet" method="get">
+					<form action="CustomerSignUpServlet" method="post">
 						<h1 style="text-align: center;" class="text-primary">Sign Up</h1>
 						<label for="Email">User Name</label> <input
 							class="form-control form-control-lg" type="email"
